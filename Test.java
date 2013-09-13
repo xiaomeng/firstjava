@@ -6,7 +6,7 @@ public class Test {
 
             System.out.println("print out a test line 2"+"hotfix add on");
 
-	    System.out.println("this is a check from b1 in cloned code base");
+	    System.out.println("this is a check from b1 in cloned code base"+"test more after merge");
 	}
 
 
